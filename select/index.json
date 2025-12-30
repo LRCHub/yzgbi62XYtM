@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "nouvelle vague",
+  "base_artist": "wave to earth",
+  "createdAt": "2025-12-30T05:36:11.909873Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nouvelle vague",
+      "artist": "Ledé Markson feat. Primero",
+      "has_synced": false,
+      "path": "select/01_Nouvelle_vague_Ledé_Markson_feat._Primero.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nouvelle vague (feat. Primero)",
+      "artist": "Ledé Markson",
+      "has_synced": false,
+      "path": "select/02_Nouvelle_vague_(feat._Primero)_Ledé_Markson.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "nouvelle vague",
+      "artist": "wave to earth",
+      "has_synced": true,
+      "path": "select/03_nouvelle_vague_wave_to_earth.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wicked [Ft. Nadeah Miranda Of Nouvelle Vague]",
+      "artist": "Gabin",
+      "has_synced": false,
+      "path": "select/04_Wicked_[Ft._Nadeah_Miranda_Of_Nouvelle_Vague]_Gabin.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Miss You (Nouvelle Vague Remix)",
+      "artist": "Carla Bruni",
+      "has_synced": true,
+      "path": "select/05_Miss_You_(Nouvelle_Vague_Remix)_Carla_Bruni.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nouvelle Vague",
+      "artist": "Richard Anthony",
+      "has_synced": true,
+      "path": "select/06_Nouvelle_Vague_Richard_Anthony.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "18 años - Nouvelle Vague Mix",
+      "artist": "Luz Casal",
+      "has_synced": false,
+      "path": "select/07_18_años_-_Nouvelle_Vague_Mix_Luz_Casal.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "18 Años (Nouvelle Vague Mix)",
+      "artist": "Luz",
+      "has_synced": true,
+      "path": "select/08_18_Años_(Nouvelle_Vague_Mix)_Luz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "18 años - Nouvelle Vague Mix",
+      "artist": "Luz Casal",
+      "has_synced": true,
+      "path": "select/09_18_años_-_Nouvelle_Vague_Mix_Luz_Casal.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nouvelle vague",
+      "artist": "Le Dé",
+      "has_synced": false,
+      "path": "select/10_Nouvelle_vague_Le_Dé.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nouvelle Vague - In a Manner Of SpeakIng(1)",
+      "artist": "[Unknown Artist]",
+      "has_synced": true,
+      "path": "select/11_Nouvelle_Vague_-_In_a_Manner_Of_SpeakIng(1)_[Unknown_Artist].lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nouvelle vague",
+      "artist": "Richard Anthony",
+      "has_synced": true,
+      "path": "select/12_Nouvelle_vague_Richard_Anthony.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nouvelle vague",
+      "artist": "Stereo Total",
+      "has_synced": false,
+      "path": "select/13_Nouvelle_vague_Stereo_Total.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "LION NOUVELLE VAGUE",
+      "artist": "Jeune Lion",
+      "has_synced": true,
+      "path": "select/14_LION_NOUVELLE_VAGUE_Jeune_Lion.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Nouvelle vague",
+      "artist": "Manau",
+      "has_synced": true,
+      "path": "select/15_Nouvelle_vague_Manau.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "nouvelle vague",
+      "artist": "wave to earth",
+      "has_synced": false,
+      "path": "select/pl_01_nouvelle_vague_wave_to_earth.txt"
+    }
+  ]
+}
